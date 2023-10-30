@@ -1,22 +1,15 @@
-### Hi there 👋
+### Welcome! 👋
 
 
 [//]: <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/adorigueto/adorigueto/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 [//]: &nbsp;&nbsp;&nbsp;
 
-<p align="center"><strong>Creative thinker, questing for a better future with Data Intelligence</strong> <br><br> From data ETL to deep learning, <strong>I'm passionate about the data life cycle and its possibilities</strong>. Today, I'm an <strong>Analytics Consultant</strong> focused on Data Storytelling.</p>&nbsp;
+<p align="center"><br>From data ETL to deep learning, <strong>I'm passionate about the data life cycle and its possibilities</strong>. <br> Today, I'm an <strong>Analytics Consultant</strong> focused on Data Storytelling<br><br>And I'm also a<br><br><strong>Creative thinker, questing for a better future with Data Intelligence</strong> <br><br> </p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=adorigueto&theme=default&hide_border=true&border_radius=5&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-adorigueto.vercel.app/api/top-langs/?username=adorigueto&show_icons=true&theme=default&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
-
-
-
-## Skills
+[//]: <div  align="center" style="margin-bottom:100px">
+[//]: <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=adorigueto&theme=default&hide_border=true&border_radius=5&mode=weekly" />
+[//]: <img width=40% align="center" src="https://github-readme-stats-git-main-adorigueto.vercel.app/api/top-langs/?username=adorigueto&show_icons=true&theme=default&layout=compact" />
+[//]: </div>
 
 ###### Main Stack:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -42,11 +35,7 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 
-
-
-
 ###### Collaboration Tools:
-
 ![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![MTeams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)&nbsp;
