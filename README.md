@@ -4,7 +4,7 @@
 [//]: <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/adorigueto/adorigueto/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 [//]: &nbsp;&nbsp;&nbsp;
 
-<p align="center"><br><strong>Creative thinker, questing for a better future with Data Intelligence</strong> <br><br>From data ETL to deep learning, <strong>I'm passionate about the data life cycle and its possibilities</strong>. <br> Today, I'm an <strong>Industrial Development Specialist</strong> leading Digital Transformation and AI at the Brazilian Industry<br></p>&nbsp;
+<p align="center"><br><strong>Creative thinker, questing for a better future with Data Intelligence</strong> <br><br>From data ETL to deep learning, <strong>I'm passionate about the data life cycle and its possibilities</strong>. <br> Currently, I lead <strong>Digital Transformation and AI initiatives for the Brazilian industry</strong> <br></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adorigueto&layout=compact&size_weight=0.5&count_weight=0.5" />
