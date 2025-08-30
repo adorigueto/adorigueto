@@ -11,7 +11,7 @@
 </div>
 
 [//]: <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=adorigueto&theme=default&hide_border=true&border_radius=5&mode=weekly" />
-[//]: <img width=40% align="center" src="https://github-readme-stats-git-main-adorigueto.vercel.app/api/top-langs/?username=adorigueto&show_icons=true&theme=default&layout=compact" />
+[//]: <img width=40% align="center" src="https://github-readme-stats-git-main-adorigueto.vercel.app/api/top-langs/?username=adorigueto&show_icons=true&theme=vue-dark&layout=compact" />
 
 ###### Main Stack:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
